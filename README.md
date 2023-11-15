@@ -1,8 +1,8 @@
 # Custom Recovery Tree
 
-Build your own custom recovery (TWRP) for Infinix Note 30 VIP (aka Infinix-X6710 or just X6710).
+Build your own custom recovery (TWRP) for Infinix Note 30 VIP (aka Infinix-MD8050 or just MD8050).
 
-![Infinix Note 30 VIP](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-x6710-note-30-vip-3.jpg)
+![Infinix Note 30 VIP](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-MD8050-note-30-vip-3.jpg)
 
 |Basic               |Spec Sheet                                                    |
 |--                  |--                                                            |

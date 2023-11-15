@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/infinix/X6710
+LOCAL_PATH := device/transsion/MD8050
 
 # A/B
 AB_OTA_POSTINSTALL_CONFIG += \

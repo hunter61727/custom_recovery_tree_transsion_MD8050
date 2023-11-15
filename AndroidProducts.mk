@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X6710.mk
+    $(LOCAL_DIR)/twrp_MD8050.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X6710-user \
-    twrp_X6710-userdebug \
-    twrp_X6710-eng
+    twrp_MD8050-user \
+    twrp_MD8050-userdebug \
+    twrp_MD8050-eng
